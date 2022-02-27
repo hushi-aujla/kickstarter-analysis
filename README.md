@@ -16,3 +16,8 @@
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99226892/155896719-f768a681-a166-412f-bbf0-cb220972d52c.png)
 ### Outcomes based on launch goal
 #### These results are a little bit less clear but we can see that there is a trend of the campaigns with lower goals having a higher precentage of success, with the exception of range between $35,000 and $45,000. This sugguests that Louise may have higher success if she has a low kickstarter goal.
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99226892/155896954-8eb75912-900b-4647-bce9-5394d9eb31fb.png)
+### Data limitations
+#### The data set does not give us any indication of what the spotlight column is or how it has anything to do with the success of a campaign so that could be considered as a possible limitation.
+### Other possible tables or graphs
+#### We could have included a bar graph that shows the number of successful and unsuccessful campaigns based of category. This could help Louise see how successful theater campaigns are when compared to other types of kickstarter campaigns.
