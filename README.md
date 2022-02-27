@@ -13,3 +13,6 @@
 ## Results
 ### Outcomes based on launch date
 #### From the results displayed on the line chart below we can we that May has been the most successful month to launch a campaign. We can also see that december is the month that has the lowest amount of successful campaigns launched. We can also see that the number of successful campaigns varies by month varies much more than the number of unsuccessful campaigns. This sugguests that the time a campaign is launched can help increase the chances of success but does not affect the chances of failure as much.
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99226892/155896719-f768a681-a166-412f-bbf0-cb220972d52c.png)
+### Outcomes based on launch goal
+#### These results are a little bit less clear but we can see that there is a trend of the campaigns with lower goals having a higher precentage of success, with the exception of range between $35,000 and $45,000. This sugguests that Louise may have higher success if she has a low kickstarter goal.
