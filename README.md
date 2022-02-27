@@ -10,7 +10,7 @@
 #### For this analysis I created a table sorted by campaign goals starting at less than $1,000 to $50,000 or more in increments of $5,000. Te table retrieved the number of successful, failed, and cancelled kickstater campaigns for each goal range. I then caluclated the precentage of successful and unsuccessful campaigns for each data range. An image of the table is shown below.
 ![analysis of goal outcomes](https://user-images.githubusercontent.com/99226892/155896383-388e4d0a-3a20-4019-8320-11a2f256fb88.png)
 ### Challenges and difficulties
-#### I had some challenge displaying the numbers in the percentage successful and failed as actual percentages. The way I fixed was by simply changing the formating of my formula in percentage successful and failed categories and changing the cell properties from general to percentage.
+#### I had some challenge displaying the numbers in the percentage successful and failed as actual percentages on my outcomes based on goal chart. The way I fixed was by simply changing the formating of my formula in percentage successful and failed categories and changing the cell properties from general to percentage.
 ## Results
 ### Outcomes based on launch date
 #### From the results displayed on the line chart below we can we that May has been the most successful month to launch a campaign. We can also see that december is the month that has the lowest amount of successful campaigns launched. We can also see that the number of successful campaigns varies by month varies much more than the number of unsuccessful campaigns. This sugguests that the time a campaign is launched can help increase the chances of success but does not affect the chances of failure as much.
