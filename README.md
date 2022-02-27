@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns"
+# An Analysis of Kickstarter Campaigns
 ## Overview of the project
 ### Purpose
 #### Performing analysis on Kickstarter data to uncover trends in theater campaign success on Kickstarter. For the purpose of this project we will specifically be looking at campaign success based on launch date and target goal set.
